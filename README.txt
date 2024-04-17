@@ -1,0 +1,4 @@
+                                                                                                            Bank management system 
+    The bank management system is created with c programming language which intiates tarncations such as bank to bank transfer ,paying your dth bill,phone bills,electricity bills and etc..it get the user of the details inorder make an a account and displays the account number and the password can set by the user .one default account is ther in the name of "ADMIN" and the password to logui  for it is "2789" and the password to intiate transaction is "9876".
+NOTE :
+   THE PROJECT IS JUST A SAMPLE AND IT IS NOT CONNECTED TO THE SERVER OR  DATABASE SO THE EACH TIME THE USER HAS TO ENETR THE USER DETAILS AND CREATE A NEW ACCOUNT TO LOGIN
